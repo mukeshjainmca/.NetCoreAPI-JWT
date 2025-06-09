@@ -109,7 +109,7 @@ namespace WebAPITemplate
                     doc.Info.Contact = new NSwag.OpenApiContact
                     {
                         Name = "Company Name",
-                        Email = "eApps@partnershiphp.org",
+                        Email = "test@test.com",
                         Url = "WebSite URL"
                     };
                 });
